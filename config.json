@@ -1,7 +1,7 @@
-   {
-  "cache_time": 7200,
-  "api_site": {
-    "dyttzy": {
+{
+"cache_time": 7200,
+"api_site": {
+ "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
@@ -245,6 +245,1387 @@
     "gqcyy": {"api": "https://gqcyy.com/api.php/provide/vod", "name": "共青春"},
     "lou:tv": {"api": "http://langaung-caicaici-ji.66yk.cn/api.php/provide/vod", "name": "喵派对蓝光"},
     "789pan": {"api": "https://www.rrvipw.com/api.php/provide/vod", "name": "789盘"},
-    "pangmao2": {"api": "http://www.prinevillesda.org/api.php/provide/vod", "name": "网民电影"}
-  }
+    "pangmao2": {"api": "http://www.prinevillesda.org/api.php/provide/vod", "name": "网民电影"},
+"dyttzy": {
+"api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+"name": "电影天堂资源",
+"detail": "https://caiji.dyttzyapi.com"
+},
+"heimuer": {
+"api": "https://json.heimuer.xyz/api.php/provide/vod",
+"name": "黑木耳",
+"detail": "https://heimuer.tv"
+},
+"ruyi": {
+"api": "https://cj.rycjapi.com/api.php/provide/vod",
+"name": "如意资源"
+},
+"bfzy": {
+"api": "https://bfzyapi.com/api.php/provide/vod",
+"name": "暴风资源"
+},
+"tyyszy": {
+"api": "https://tyyszy.com/api.php/provide/vod",
+"name": "天涯资源"
+},
+"ffzy": {
+"api": "https://ffzy5.tv/api.php/provide/vod",
+"name": "非凡影视",
+"detail": "https://ffzy5.tv"
+},
+"zy360": {
+"api": "https://360zy.com/api.php/provide/vod",
+"name": "360资源"
+},
+"maotaizy": {
+"api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+"name": "茅台资源"
+},
+"wolong": {
+"api": "https://wolongzyw.com/api.php/provide/vod",
+"name": "卧龙资源"
+},
+"jisu": {
+"api": "https://jszyapi.com/api.php/provide/vod",
+"name": "极速资源",
+"detail": "https://jszyapi.com"
+},
+"dbzy": {
+"api": "https://dbzy.tv/api.php/provide/vod",
+"name": "豆瓣资源"
+},
+"mozhua": {
+"api": "https://mozhuazy.com/api.php/provide/vod",
+"name": "魔爪资源"
+},
+"mdzy": {
+"api": "https://www.mdzyapi.com/api.php/provide/vod",
+"name": "魔都资源"
+},
+"zuid": {
+"api": "https://api.zuidapi.com/api.php/provide/vod",
+"name": "最大资源"
+},
+"yinghua": {
+"api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+"name": "樱花资源"
+},
+"wujin": {
+"api": "https://api.wujinapi.me/api.php/provide/vod",
+"name": "无尽资源"
+},
+"wwzy": {
+"api": "https://wwzy.tv/api.php/provide/vod",
+"name": "旺旺短剧"
+},
+"ikun": {
+"api": "https://ikunzyapi.com/api.php/provide/vod",
+"name": "iKun资源"
+},
+"lzi": {
+"api": "https://cj.lziapi.com/api.php/provide/vod",
+"name": "量子资源站"
+},
+"xiaomaomi": {
+"api": "https://zy.xmm.hk/api.php/provide/vod",
+"name": "小猫咪资源"
+},
+"ckzy": {
+"api": "https://www.ckzy1.com/api.php/provide/vod",
+"name": "CK资源"
+},
+"jkun": {
+"api": "https://jkunzyapi.com/api.php/provide/vod",
+"name": "jkun资源"
+},
+"bwzy": {
+"api": "https://api.bwzym3u8.com/api.php/provide/vod",
+"name": "百万资源"
+},
+"souav": {
+"api": "https://api.souavzy.vip/api.php/provide/vod",
+"name": "souav资源"
+},
+"r155": {
+"api": "https://155api.com/api.php/provide/vod",
+"name": "155资源"
+},
+"lsb": {
+"api": "https://apilsbzy1.com/api.php/provide/vod",
+"name": "lsb资源"
+},
+"huangcang": {
+"api": "https://hsckzy.vip/api.php/provide/vod",
+"name": "黄色仓库",
+"detail": "https://hsckzy.vip"
+},
+"yutu": {
+"api": "https://yutuzy10.com/api.php/provide/vod",
+"name": "玉兔资源"
+},
+"subo": {
+"api": "https://subocaiji.com/api.php/provide/vod",
+"name": "速播资源"
+},
+"fczy": {
+"api": "https://api.fczy888.me/api.php/provide/vod",
+"name": "蜂巢资源"
+},
+"ukzy": {
+"api": "https://api.ukuapi88.com/api.php/provide/vod",
+"name": "U酷资源"
+},
+"omdb": {
+"api": "https://www.omdbapi.com/",
+"name": "Open Movie Database",
+"detail": "Free movie and TV data without key for basic queries"
+},
+"anichan": {
+"api": "https://animechan.vercel.app/",
+"name": "AnimeChan",
+"detail": "Anime quotes API"
+},
+"animefacts": {
+"api": "https://chandan-02.github.io/anime-facts-rest-api/",
+"name": "AnimeFacts",
+"detail": "Facts about anime"
+},
+"ann": {
+"api": "https://www.animenewsnetwork.com/encyclopedia/api.php",
+"name": "Anime News Network",
+"detail": "Anime industry news"
+},
+"catboy": {
+"api": "https://catboys.com/api",
+"name": "Catboy",
+"detail": "Neko images and GIFs"
+},
+"jikan": {
+"api": "https://api.jikan.moe/v4",
+"name": "Jikan",
+"detail": "Unofficial MyAnimeList API"
+},
+"ghibli": {
+"api": "https://ghibli.rest/",
+"name": "Studio Ghibli",
+"detail": "Resources from Studio Ghibli films"
+},
+"tracemoe": {
+"api": "https://soruly.github.io/trace.moe-api/",
+"name": "Trace Moe",
+"detail": "Anime scene search from screenshots"
+},
+"waifuim": {
+"api": "https://api.waifu.im/",
+"name": "Waifu.im",
+"detail": "Waifu pictures with tags"
+},
+"chucknorris": {
+"api": "https://api.chucknorris.io/",
+"name": "Chuck Norris",
+"detail": "Chuck Norris jokes"
+},
+"buzzwords": {
+"api": "https://corporatebs-generator.sameerkumar.website/",
+"name": "Corporate Buzz Words",
+"detail": "Corporate buzz phrases"
+},
+"excuser": {
+"api": "https://excuser-three.vercel.app/",
+"name": "Excuser",
+"detail": "Random excuses"
+},
+"funfact": {
+"api": "https://api.aakhilv.me/fun/facts",
+"name": "Fun Fact",
+"detail": "Random facts"
+},
+"imgflip": {
+"api": "https://api.imgflip.com/",
+"name": "Imgflip",
+"detail": "Popular memes"
+},
+"mememaker": {
+"api": "https://api.mememaker.net/",
+"name": "Meme Maker",
+"detail": "Create memes"
+},
+"namomemes": {
+"api": "https://namo-memes-copy-kibitz.vercel.app/api",
+"name": "NaMoMemes",
+"detail": "Memes on Narendra Modi"
+},
+"uselessfacts": {
+"api": "https://uselessfacts.jsph.pl/api/v2/facts/random",
+"name": "Random Useless Facts",
+"detail": "Useless facts"
+},
+"techy": {
+"api": "https://techy-api.vercel.app/api/json",
+"name": "Techy",
+"detail": "Tech phrases"
+},
+"yomomma": {
+"api": "https://api.yomomma.info/",
+"name": "Yo Momma Jokes",
+"detail": "Yo Momma jokes"
+},
+"anilist": {
+"api": "https://anilist.gitbook.io/anilist-apiv2-docs/",
+"name": "AniList",
+"detail": "Anime discovery and tracking"
+},
+"kitsu": {
+"api": "https://kitsu.docs.apiary.io/",
+"name": "Kitsu",
+"detail": "Anime discovery platform"
+},
+"bangumi": {
+"api": "https://bangumi.github.io/api/",
+"name": "Bangumi",
+"detail": "Chinese anime, manga database"
+},
+"nekosia": {
+"api": "https://nekosia.net/api",
+"name": "Nekosia",
+"detail": "Anime neko images and GIFs"
+},
+"waifupics": {
+"api": "https://waifu.pics/docs",
+"name": "Waifu.pics",
+"detail": "Anime image sharing"
+},
+"waifu_it": {
+"api": "https://waifu.it/docs",
+"name": "Waifu.it",
+"detail": "Waifu images API"
+},
+"nekospro": {
+"api": "https://api.nekospro.com/",
+"name": "NekosPro",
+"detail": "Anime neko images and roleplay GIFs"
+},
+"nekos": {
+"api": "https://nekos.life/api/v2",
+"name": "Nekos",
+"detail": "Anime images"
+},
+"dattebayo": {
+"api": "https://dattebayo-api.onrender.com/",
+"name": "Dattebayo",
+"detail": "Naruto API"
+},
+"shikimori": {
+"api": "https://shikimori.one/api/doc",
+"name": "Shikimori",
+"detail": "Anime and manga data"
+},
+"anidb": {
+"api": "https://wiki.anidb.net/HTTP_API_Definition",
+"name": "AniDB",
+"detail": "Anime database"
+},
+"aniqu": {
+"api": "https://aniqu.com/",
+"name": "Aniqu",
+"detail": "Anime streaming without ads"
+},
+"eporner": {
+"api": "https://www.eporner.com/api/",
+"name": "Eporner API",
+"detail": "Adult video API with 4K content"
+},
+"jsonporn": {
+"api": "https://json.porn/",
+"name": "JSON Porn API",
+"detail": "Adult movies, clips, and streams"
+},
+"porndb": {
+"api": "https://www.theporndb.net/api",
+"name": "ThePornDB",
+"detail": "Adult movie and scene metadata"
+},
+"picpurify": {
+"api": "https://www.picpurify.com/api2/",
+"name": "PicPurify",
+"detail": "NSFW content detection"
+},
+"sightengine": {
+"api": "https://api.sightengine.com/",
+"name": "Sightengine",
+"detail": "Video moderation for adult content"
+},
+"nsfwapi": {
+"api": "https://nsfw-detection-api.com/",
+"name": "NSFW API",
+"detail": "Censor sexual content in videos"
+},
+"api4ai": {
+"api": "https://api4.ai/nsfw-detection",
+"name": "API4AI NSFW",
+"detail": "NSFW image moderation"
+},
+"imdb": {
+"api": "https://developer.imdb.com/",
+"name": "IMDb API",
+"detail": "Movie and TV data"
+},
+"letterboxd": {
+"api": "https://api-docs.letterboxd.com/",
+"name": "Letterboxd",
+"detail": "Film data and user interactions"
+},
+"tmdb": {
+"api": "https://developer.themoviedb.org/docs",
+"name": "The Movie Database",
+"detail": "Movies and TV shows"
+},
+"shutterstock": {
+"api": "https://api-reference.shutterstock.com/",
+"name": "Shutterstock",
+"detail": "Media library including videos"
+},
+"mux": {
+"api": "https://www.mux.com/",
+"name": "Mux Video",
+"detail": "Video hosting and streaming"
+},
+"apivideo": {
+"api": "https://api.video/",
+"name": "api.video",
+"detail": "Video management and delivery"
+},
+"youtube": {
+"api": "https://developers.google.com/youtube/v3/docs/videos",
+"name": "YouTube Data API",
+"detail": "Video resources"
+},
+"videojs": {
+"api": "https://videojs.com/",
+"name": "Video.js",
+"detail": "Open source video player"
+},
+"virustotal": {
+"api": "https://developers.virustotal.com/reference/videos",
+"name": "VirusTotal",
+"detail": "File and URL analysis, potentially for video content"
+},
+"restcountries": {
+"api": "https://restcountries.com/",
+"name": "REST Countries",
+"detail": "Country data, useful for region-based content"
+},
+"openexchangerates": {
+"api": "https://openexchangerates.org/",
+"name": "Open Exchange Rates",
+"detail": "Currency data for paid content"
+},
+"universities": {
+"api": "http://universities.hipolabs.com/",
+"name": "Universities List",
+"detail": "University data"
+},
+"openlibrary": {
+"api": "https://openlibrary.org/developers/api",
+"name": "Open Library",
+"detail": "Book data, including manga"
+},
+"placebear": {
+"api": "https://placebear.com/",
+"name": "PlaceBear",
+"detail": "Placeholder images"
+},
+"placedog": {
+"api": "https://placedog.net/",
+"name": "PlaceDog",
+"detail": "Dog placeholders"
+},
+"placekitten": {
+"api": "https://placekitten.com/",
+"name": "PlaceKitten",
+"detail": "Kitten placeholders"
+},
+"randomdog": {
+"api": "https://random.dog/",
+"name": "RandomDog",
+"detail": "Random dog pictures"
+},
+"randomduck": {
+"api": "https://random-d.uk/api",
+"name": "RandomDuck",
+"detail": "Duck pictures"
+},
+"randomfox": {
+"api": "https://randomfox.ca/",
+"name": "RandomFox",
+"detail": "Fox pictures"
+},
+"shibe": {
+"api": "http://shibe.online/",
+"name": "Shibe.Online",
+"detail": "Shiba Inu, cats, birds"
+},
+"thedog": {
+"api": "https://thedogapi.com/",
+"name": "The Dog",
+"detail": "Dog service"
+},
+"xenocanto": {
+"api": "https://xeno-canto.org/api",
+"name": "xeno-canto",
+"detail": "Bird recordings"
+},
+"jsonplaceholder": {
+"api": "https://jsonplaceholder.typicode.com/",
+"name": "JSONPlaceholder",
+"detail": "Fake REST API"
+},
+"freegeoip": {
+"api": "https://freegeoip.app/",
+"name": "Free Geo IP",
+"detail": "IP geolocation"
+},
+"openexchangerates2": {
+"api": "https://openexchangerates.org/",
+"name": "Open Exchange Rates",
+"detail": "Currency rates"
+},
+"openai": {
+"api": "https://platform.openai.com/docs/api-reference",
+"name": "OpenAI",
+"detail": "AI models (requires key)"
+},
+"googleaistudio": {
+"api": "https://aistudio.google.com/",
+"name": "Google AI Studio",
+"detail": "AI playground"
+},
+"petfinder": {
+"api": "https://www.petfinder.com/developers/",
+"name": "Petfinder",
+"detail": "Pet adoption"
+},
+"rescuegroups": {
+"api": "https://rescuegroups.org/services/api/",
+"name": "RescueGroups",
+"detail": "Animal adoption"
+},
+"movementmigration": {
+"api": "https://example.com/movement-migration",
+"name": "Movement and Migration",
+"detail": "Animal migration data"
+},
+"yomomma2": {
+"api": "https://api.yomomma.info/",
+"name": "Yo Momma Jokes",
+"detail": "Yo Momma jokes (duplicate for expansion)"
+},
+"waifu_pics": {
+"api": "https://api.waifu.pics/",
+"name": "Waifu.pics",
+"detail": "Anime images"
+},
+"nekosia2": {
+"api": "https://api.nekosia.cat/",
+"name": "Nekosia",
+"detail": "Anime neko API"
+},
+"animechan2": {
+"api": "https://animechan.io/",
+"name": "AnimeChan",
+"detail": "Anime quotes"
+},
+"popularanime": {
+"api": "https://zylalabs.com/api/2330/popular+anime+api",
+"name": "Popular Anime API",
+"detail": "Trending anime titles"
+},
+"hanime": {
+"api": "https://api.hanime.tv/",
+"name": "Hanime",
+"detail": "Hentai streaming (adult anime)"
+},
+"oppai": {
+"api": "https://api.oppai.stream/",
+"name": "Oppai",
+"detail": "Uncensored hentai"
+},
+"hentaihaven": {
+"api": "https://hentaihaven.xxx/api",
+"name": "Hentai Haven",
+"detail": "Hentai videos (adult)"
+},
+"hentaiprn": {
+"api": "https://hentaiprn.com/api",
+"name": "HentaiPRN",
+"detail": "Hentai porn videos"
+},
+"hentaikey": {
+"api": "https://hentaikey.com/api",
+"name": "HentaiKey",
+"detail": "Premium hentai content"
+},
+"anihentai": {
+"api": "https://anihentai.com/api",
+"name": "AniHentai",
+"detail": "Adult anime streaming"
+},
+"hentaiser": {
+"api": "https://app.hentaiser.com/api",
+"detail": "Hentai and anime app"
+},
+"hentaigames": {
+"api": "https://gamcore.com/hentai_games/api",
+"name": "Hentai Games",
+"detail": "Adult hentai games"
+},
+"nutaku": {
+"api": "https://www.nutaku.net/api",
+"name": "Nutaku",
+"detail": "Adult mobile games"
+},
+"live3d": {
+"api": "https://live3d.io/api",
+"name": "Live3D",
+"detail": "NSFW AI art generator"
+},
+"swipey": {
+"api": "https://swipey.org/api",
+"name": "Swipey Hentai Chat",
+"detail": "AI anime characters chat"
+},
+"nsfwlover": {
+"api": "https://www.nsfwlover.com/api",
+"name": "NSFWLover AI",
+"detail": "NSFW AI chatbots"
+},
+"crushon": {
+"api": "https://crushon.ai/api",
+"name": "CrushOn AI",
+"detail": "AI girlfriend app with NSFW"
+},
+"sugorlab": {
+"api": "https://sugarlab.ai/api",
+"name": "SugarLab AI",
+"detail": "Anime and hentai chat"
+},
+"merlio": {
+"api": "https://merlio.app/api",
+"name": "Merlio AI Hentai Chatbots",
+"detail": "Free AI hentai chatbots"
+},
+"topmediai": {
+"api": "https://www.topmediai.com/api",
+"name": "TopMediai Hentai AI",
+"detail": "Hentai generators"
+},
+"contentmavericks": {
+"api": "https://contentmavericks.com/api",
+"name": "Content Mavericks Hentai",
+"detail": "AI hentai generators"
+},
+"aimojo": {
+"api": "https://aimojo.io/api",
+"name": "AIMojo Hentai Chatbots",
+"detail": "Hentai AI chatbots"
+},
+"gdprinfo": {
+"api": "https://gdprinfo.eu/api",
+"name": "GDPRInfo AI Girlfriend",
+"detail": "AI companion with NSFW"
+},
+"theresanaiforthat": {
+"api": "https://theresanaiforthat.com/api",
+"name": "There's An AI For That NSFW",
+"detail": "NSFW video generation"
+},
+"itopvpn": {
+"api": "https://www.itopvpn.com/api",
+"name": "iTop VPN",
+"detail": "Unblock hentai"
+},
+"pornhub": {
+"api": "https://www.pornhub.com/api",
+"name": "PornHub API",
+"detail": "Adult video API (requires key)"
+},
+"aebn": {
+"api": "https://aebn.com/api",
+"name": "AEBN API",
+"detail": "Adult entertainment"
+},
+"modelcentro": {
+"api": "https://modelcentro.com/api",
+"name": "ModelCentro API",
+"detail": "Adult content"
+},
+"hoemega": {
+"api": "https://hoemega.com/api",
+"name": "Hot Movies API",
+"detail": "Adult movies upload"
+},
+"edenai": {
+"api": "https://www.edenai.co/api",
+"name": "Eden AI Explicit Detection",
+"detail": "NSFW detection APIs"
+},
+"clipnuke": {
+"api": "https://clipnuke.com/api",
+"name": "ClipNuke Hot Movies",
+"detail": "Adult movies"
+},
+"cloudflare": {
+"api": "https://developers.cloudflare.com/api",
+"name": "Cloudflare Domain Categories",
+"detail": "Content categories including adult"
+},
+"iab": {
+"api": "https://www.iab.com/api",
+"name": "IAB OpenRTB",
+"detail": "Ad API specification"
+},
+"serpapi": {
+"api": "https://serpapi.com/api",
+"name": "SerpApi",
+"detail": "Google search results"
+},
+"iqiyi": {
+"api": "https://www.iq.com/api",
+"name": "iQIYI",
+"detail": "Chinese dramas and anime"
+},
+"wetv": {
+"api": "https://wetv.vip/api",
+"name": "WeTV",
+"detail": "Asian dramas and anime"
+},
+"tencentvideo": {
+"api": "https://v.qq.com/api",
+"name": "Tencent Video",
+"detail": "Chinese video platform"
+},
+"youku": {
+"api": "https://www.youku.com/api",
+"name": "Youku",
+"detail": "Chinese dramas and movies"
+},
+"letv": {
+"api": "https://www.le.com/api",
+"name": "LeTV",
+"detail": "Chinese VOD"
+},
+"bilibili": {
+"api": "https://api.bilibili.com/",
+"name": "Bilibili",
+"detail": "Chinese anime and videos"
+},
+"miguvideo": {
+"api": "https://www.miguvideo.com/api",
+"name": "Migu Video",
+"detail": "Chinese sports and dramas"
+},
+"sohutv": {
+"api": "https://tv.sohu.com/api",
+"name": "Sohu TV",
+"detail": "Chinese TV series"
+},
+"vidfish": {
+"api": "https://vidfish.tv/api",
+"name": "Vidfish",
+"detail": "Chinese movies with multilingual support"
+},
+"1905movie": {
+"api": "https://www.1905.com/api",
+"name": "1905 Movie",
+"detail": "Chinese movies and TV"
+},
+"dramafire": {
+"api": "https://dramafire.com/api",
+"name": "DramaFire",
+"detail": "Asian dramas"
+},
+"baidutv": {
+"api": "https://tv.baidu.com/api",
+"name": "Baidu TV",
+"detail": "Chinese video search"
+},
+"filmdood": {
+"api": "https://www.filmdoo.com/api",
+"name": "FilmDoo",
+"detail": "International films"
+},
+"yuyutv": {
+"api": "https://yuyutv.com/api",
+"name": "YuYu TV",
+"detail": "Chinese TV series"
+},
+"27kcc": {
+"api": "https://27k.cc/api",
+"name": "27K.CC",
+"detail": "Chinese torrent videos"
+},
+"viki": {
+"api": "https://www.viki.com/api",
+"name": "Viki",
+"detail": "Asian dramas with subtitles"
+},
+"netflix": {
+"api": "https://www.netflix.com/api",
+"name": "Netflix",
+"detail": "Streaming service with Chinese content"
+},
+"mangotv": {
+"api": "https://www.mgtv.com/api",
+"name": "Mango TV",
+"detail": "Chinese dramas"
+},
+"hidive": {
+"api": "https://www.hidive.com/api",
+"name": "HIDIVE",
+"detail": "Anime streaming"
+},
+"animeheaven": {
+"api": "https://animeheaven.ru/api",
+"name": "AnimeHeaven",
+"detail": "Anime episodes"
+},
+"crunchyroll": {
+"api": "https://www.crunchyroll.com/api",
+"name": "Crunchyroll",
+"detail": "Anime streaming"
+},
+"tubi": {
+"api": "https://tubitv.com/api",
+"name": "Tubi",
+"detail": "Free anime and movies"
+},
+"funimation": {
+"api": "https://www.funimation.com/api",
+"name": "Funimation",
+"detail": "Anime with subtitles"
+},
+"disneyplus": {
+"api": "https://www.disneyplus.com/api",
+"name": "Disney+",
+"detail": "Streaming with anime"
+},
+"animekai": {
+"api": "https://animekai.com/api",
+"name": "AnimeKai",
+"detail": "Older anime series"
+},
+"theindexmoe": {
+"api": "https://theindex.moe/api",
+"name": "TheIndex.moe",
+"detail": "Anime streaming sites list"
+},
+"animepiracy": {
+"api": "https://www.reddit.com/r/animepiracy/api",
+"name": "AnimePiracy",
+"detail": "Anime sites discussion"
+},
+"promptchan": {
+"api": "https://promptchan.ai/api",
+"name": "PromptChan",
+"detail": "AI hentai generator"
+},
+"basedlabs": {
+"api": "https://www.basedlabs.ai/api",
+"name": "BasedLabs",
+"detail": "AI image generator for NSFW"
+},
+"domoai": {
+"api": "https://domoai.app/api",
+"name": "DomoAI",
+"detail": "Anime art and avatars"
+},
+"forgeui": {
+"api": "https://forgeui.com/api",
+"name": "ForgeUI",
+"detail": "Free AI image tool"
+},
+"comfyui": {
+"api": "https://comfyui.com/api",
+"name": "ComfyUI",
+"detail": "Free AI generation"
+},
+"stashapp": {
+"api": "https://stashapp.cc/api",
+"name": "StashApp",
+"detail": "Media organizer for adult content"
+},
+"piczeltv": {
+"api": "https://piczel.tv/api",
+"name": "Piczel TV",
+"detail": "Adult art streaming"
+},
+"itaku": {
+"api": "https://itaku.ee/api",
+"name": "Itaku",
+"detail": "NSFW art upload"
+},
+"furaffinity": {
+"api": "https://www.furaffinity.net/api",
+"name": "FurAffinity",
+"detail": "Furry art gallery"
+},
+"cohost": {
+"api": "https://cohost.org/api",
+"name": "Cohost",
+"detail": "Social platform for NSFW"
+},
+"newgrounds": {
+"api": "https://www.newgrounds.com/api",
+"name": "Newgrounds",
+"detail": "Art and animation"
+},
+"hentaifoundry": {
+"api": "https://www.hentaifoundry.com/api",
+"name": "HentaiFoundry",
+"detail": "Hentai art"
+},
+"picarto": {
+"api": "https://picarto.tv/api",
+"name": "Picarto",
+"detail": "Art streaming"
+},
+"bluesky": {
+"api": "https://bsky.app/api",
+"name": "Bluesky",
+"detail": "Social for NSFW"
+},
+"pixiv": {
+"api": "https://www.pixiv.net/en/api",
+"name": "Pixiv",
+"detail": "Japanese art platform"
+},
+"itchio": {
+"api": "https://itch.io/api",
+"name": "Itch.io",
+"detail": "Indie games including adult"
+},
+"misskey": {
+"api": "https://misskey.io/api",
+"name": "Misskey",
+"detail": "Social network for anime"
+},
+"vidiq": {
+"api": "https://vidiq.com/api",
+"name": "VIDIQ",
+"detail": "YouTube tool (free)"
+},
+"canva": {
+"api": "https://www.canva.com/api",
+"name": "Canva",
+"detail": "Design tool (free)"
+},
+"viewstats": {
+"api": "https://viewstats.com/api",
+"name": "Viewstats",
+"detail": "Stats tool (free)"
+},
+"googledocs": {
+"api": "https://docs.google.com/api",
+"name": "Google Docs",
+"detail": "Document tool (free)"
+},
+"wouldyouclick": {
+"api": "https://wouldyouclick.com/api",
+"name": "WouldYouClick",
+"detail": "Click tool (free)"
+},
+"yelp": {
+"api": "https://www.yelp.com/developers",
+"name": "Yelp API",
+"detail": "Business reviews"
+},
+"telegram": {
+"api": "https://core.telegram.org/api",
+"name": "Telegram API",
+"detail": "Messaging"
+},
+"googleapis": {
+"api": "https://developers.google.com/apis-explorer",
+"name": "Google APIs",
+"detail": "Various Google services"
+},
+"rapidapi": {
+"api": "https://rapidapi.com/",
+"name": "Rapid API",
+"detail": "API marketplace"
+},
+"facebook": {
+"api": "https://developers.facebook.com/docs/apis-and-sdks/",
+"name": "Facebook API",
+"detail": "Social platform"
+},
+"mapbox": {
+"api": "https://docs.mapbox.com/api/",
+"name": "Mapbox API",
+"detail": "Maps"
+},
+"twitter": {
+"api": "https://developer.x.com/en/docs/twitter-api",
+"name": "Twitter API",
+"detail": "Social media"
+},
+"paypal": {
+"api": "https://developer.paypal.com/api/rest/",
+"name": "PayPal API",
+"detail": "Payments"
+},
+"stripe": {
+"api": "https://docs.stripe.com/api",
+"name": "Stripe API",
+"detail": "Payments"
+},
+"shopify": {
+"api": "https://shopify.dev/docs/api",
+"name": "Shopify API",
+"detail": "Ecommerce"
+},
+"twilio": {
+"api": "https://www.twilio.com/docs/api",
+"name": "Twilio API",
+"detail": "SMS and voice"
+},
+"openweathermap": {
+"api": "https://openweathermap.org/api",
+"name": "OpenWeatherMap",
+"detail": "Weather data"
+},
+"openfoodfacts": {
+"api": "https://world.openfoodfacts.org/data",
+"name": "Open Food Facts",
+"detail": "Food product data"
+},
+"slack": {
+"api": "https://api.slack.com/",
+"name": "Slack API",
+"detail": "Team communication"
+},
+"github": {
+"api": "https://docs.github.com/en/rest",
+"name": "GitHub API",
+"detail": "Code hosting"
+},
+"onedrive": {
+"api": "https://docs.microsoft.com/en-us/onedrive/developer/rest-api/",
+"name": "OneDrive API",
+"detail": "File storage"
+},
+"dropbox": {
+"api": "https://www.dropbox.com/developers/documentation/http/overview",
+"name": "Dropbox API",
+"detail": "File storage"
+},
+"nasa": {
+"api": "https://api.nasa.gov/",
+"name": "NASA API",
+"detail": "Space data"
+},
+"newsapi": {
+"api": "https://newsapi.org/",
+"name": "News API",
+"detail": "News headlines"
+},
+"giphy": {
+"api": "https://developers.giphy.com/docs/api/",
+"name": "GIPHY API",
+"detail": "GIFs"
+},
+"pokeapi": {
+"api": "https://pokeapi.co/",
+"name": "Pokemon API",
+"detail": "Pokemon data"
+},
+"dogsapi": {
+"api": "https://dog.ceo/dog-api/",
+"name": "Dogs API",
+"detail": "Dog breeds"
+},
+"genderize": {
+"api": "https://genderize.io/",
+"name": "Genderize.io",
+"detail": "Gender prediction"
+},
+"movieomdb": {
+"api": "https://www.omdbapi.com/",
+"name": "OMDb Movie API",
+"detail": "Movie data"
+},
+"freekeysomdb": {
+"api": "https://github.com/rickylawson/freekeys",
+"name": "FreeKeys OMDb",
+"detail": "Free OMDb keys"
+},
+"freekeys": {
+"api": "https://github.com/rickylawson/freekeys",
+"name": "FreeKeys TMDb",
+"detail": "Free TMDb keys"
+},
+"mapsstatic": {
+"api": "https://developers.google.com/maps/documentation/maps-static",
+"name": "Google Maps Static",
+"detail": "Static maps"
+},
+"postman": {
+"api": "https://www.postman.com/api",
+"name": "Postman API Testing",
+"detail": "API testing tool"
+},
+"apidog": {
+"api": "https://apidog.com/api",
+"name": "Apidog Hub",
+"detail": "Free APIs hub"
+},
+"apyhub": {
+"api": "https://www.apyhub.com/api",
+"detail": "API development"
+},
+"apilayer": {
+"api": "https://apilayer.com/",
+"name": "APILayer",
+"detail": "API curation"
+},
+"apidna": {
+"api": "https://apidna.com/",
+"name": "APIDNA",
+"detail": "API integration"
+},
+"openmeteo": {
+"api": "https://open-meteo.com/",
+"name": "Open Meteo",
+"detail": "Weather API without key"
+},
+"telegramplayground": {
+"api": "https://github.com/TelegramPlayground/Free-Movie-Series-DB-API",
+"name": "Free Movie Series DB API",
+"detail": "Movie and series data without keys"
+},
+"alfa155518": {
+"api": "https://github.com/alfa155518/API-s-collection-free",
+"name": "API's Collection Free",
+"detail": "Free entertainment APIs"
+},
+"marcelscruz": {
+"api": "https://github.com/marcelscruz/public-apis",
+"name": "Public APIs by Marcel",
+"detail": "Curated public APIs"
+},
+"zeroapi": {
+"api": "https://zero.sh/",
+"name": "Zero API Key",
+"detail": "Single key for multiple APIs"
+},
+"sattyam": {
+"api": "https://apidog.com/",
+"name": "Apidog Free APIs",
+"detail": "Guide to free APIs"
+},
+"newsapiorg": {
+"api": "https://newsapi.org/",
+"name": "NewsAPI.org",
+"detail": "News API"
+},
+"osintapis": {
+"api": "https://publicapis.io/",
+"name": "Public APIs OSINT",
+"detail": "Public APIs list"
+},
+"theapache64": {
+"api": "https://github.com/theapache64/movie_db",
+"name": "Movie DB API",
+"detail": "IMDB API without key"
+},
+"raajaryan": {
+"api": "https://raajaryan.com/free-apis",
+"name": "Free APIs 2025",
+"detail": "List of free APIs"
+},
+"apislist": {
+"api": "https://apislist.com/category/2/anime",
+"name": "APIs List Anime",
+"detail": "Anime APIs"
+},
+"syncios": {
+"api": "https://www.syncios.com/api",
+"name": "Syncios Unblocked Anime",
+"detail": "Unblocked anime sites"
+},
+"imyfone": {
+"api": "https://www.imyfone.com/api",
+"name": "iMyFone Anime Sites",
+"detail": "Free anime websites"
+},
+"freepublicapis": {
+"api": "https://www.freepublicapis.com/",
+"name": "Free Public APIs",
+"detail": "Collection of free APIs"
+},
+"apollo": {
+"api": "https://www.apollographql.com/api",
+"name": "Apollo GraphQL APIs",
+"detail": "Free GraphQL APIs"
+},
+"jsonapi": {
+"api": "https://www.jsonapi.co/public-api/Waifu.pics",
+"name": "JSON API Waifu.pics",
+"detail": "Anime images"
+},
+"analyticsinsight": {
+"api": "https://www.analyticsinsight.net/api",
+"name": "Analytics Insight Anime Sites",
+"detail": "Free anime sites"
+},
+"troypoint": {
+"api": "https://troypoint.com/api",
+"name": "TroyPoint Anime Streaming",
+"detail": "Free anime streaming sites"
+},
+"privateinternetaccess": {
+"api": "https://www.privateinternetaccess.com/api",
+"name": "Private Internet Access Anime Sites",
+"detail": "Best anime streaming"
+},
+"edgeone": {
+"api": "https://edgeone.ai/api",
+"name": "Tencent EdgeOne Anime Sites",
+"detail": "Free anime websites"
+},
+"mixedanalytics": {
+"api": "https://mixedanalytics.com/api",
+"detail": "Open no-auth APIs"
+},
+"publicapi": {
+"api": "https://publicapi.dev/category/anime",
+"name": "PublicAPI Anime",
+"detail": "Anime APIs"
+},
+"hohanga": {
+"api": "https://hohanga.medium.com/api",
+"name": "Useful Free APIs Anime",
+"detail": "Anime APIs"
+},
+"thepornguy": {
+"api": "https://thepornguy.org/api",
+"name": "ThePornGuy Anime Porn Sites",
+"detail": "Anime hentai sites"
+},
+"thebestfetishsites": {
+"api": "https://thebestfetishsites.com/api",
+"name": "TBFS Hentai",
+"detail": "Hentai porn sites"
+},
+"theporndude": {
+"api": "https://theporndude.com/api",
+"name": "ThePornDude Hanime",
+"detail": "Hentai streaming sites"
+},
+"quora": {
+"api": "https://www.quora.com/api",
+"name": "Quora Uncensored Anime",
+"detail": "Legal uncensored anime"
+},
+"tgstat": {
+"api": "https://tgstat.com/api",
+"name": "TGStat Anime Hentai",
+"detail": "Hentai channels"
+},
+"itchio2": {
+"api": "https://a-ton-pixels.itch.io/api",
+"name": "Itch.io Horny Nights",
+"detail": "Adult games"
+},
+"allanimemags": {
+"api": "https://allanimemags.com/api",
+"name": "All Anime Mags Hentai",
+"detail": "Hentai genre"
+},
+"pornhub2": {
+"api": "https://www.pornhub.com/api",
+"name": "PornHub Uncensored Hentai",
+"detail": "Uncensored hentai videos"
+},
+"nsfwlover2": {
+"api": "https://www.nsfwlover.com/api",
+"name": "NSFWLover",
+"detail": "NSFW AI chat (duplicate)"
+},
+"swipey2": {
+"api": "https://swipey.org/api",
+"name": "Swipey Hentai",
+"detail": "AI hentai chat (duplicate)"
+},
+"live3d2": {
+"api": "https://live3d.io/api",
+"name": "Live3D NSFW Generator",
+"detail": "NSFW AI art (duplicate)"
+},
+"pornguy": {
+"api": "https://thepornguy.org/api",
+"name": "ThePornGuy Hentai Sites",
+"detail": "Hentai sites (duplicate)"
+},
+"porndude": {
+"api": "https://theporndude.com/api",
+"name": "ThePornDude HentaiKey",
+"detail": "Premium hentai (duplicate)"
+},
+"theporndude2": {
+"api": "https://theporndude.vip/api",
+"name": "ThePornDude VIP",
+"detail": "Hentai sites"
+},
+"thepornlist": {
+"api": "https://www.thepornlist.net/api",
+"name": "The Porn List Hentai",
+"detail": "Hentai porn sites"
+},
+"thebestfetishsites2": {
+"api": "https://thebestfetishsites.com/api",
+"name": "TBFS Top Hentai",
+"detail": "Top hentai sites"
+},
+"theporndude3": {
+"api": "https://theporndude.com/api",
+"name": "ThePornDude HentaiKey",
+"detail": "Hentai art and games (duplicate)"
+},
+"watercolourmarks": {
+"api": "https://www.watercolourmarks.com/api",
+"name": "Watercolour Marks C-Dramas",
+"detail": "Chinese dramas sites"
+},
+"improvemandarin": {
+"api": "https://improvemandarin.com/api",
+"name": "ImproveMandarin Chinese Dramas",
+"detail": "Free Chinese drama sites"
+},
+"videoconverterfactory": {
+"api": "https://www.videoconverterfactory.com/api",
+"name": "VideoConverterFactory Chinese Movies",
+"detail": "Chinese movies online"
+},
+"vdocipher": {
+"api": "https://www.vdocipher.com/api",
+"name": "VdoCipher Asia VOD",
+"detail": "Asian VOD platforms"
+},
+"herzindagi": {
+"api": "https://www.herzindagi.com/api",
+"name": "HerZindagi Anime Download",
+"detail": "Anime download sites"
+},
+"jsonapiapp": {
+"api": "https://www.jsonapi.co/api",
+"name": "JSON API App Anime",
+"detail": "Anime APIs"
+},
+"publicapisdev": {
+"api": "https://publicapis.dev/api",
+"name": "Public APIs Dev Anime",
+"detail": "Anime APIs collection"
+},
+"rapidapi2": {
+"api": "https://rapidapi.com/collection/anime-api",
+"name": "RapidAPI Anime",
+"detail": "Anime APIs (duplicate)"
+},
+"zuplo": {
+"api": "https://zuplo.com/api",
+"name": "Zuplo Movie APIs",
+"detail": "Movie database APIs"
+},
+"devto": {
+"api": "https://dev.to/api",
+"name": "DEV Community APIs",
+"detail": "Developer APIs lists"
+},
+"publicapilists": {
+"api": "https://github.com/public-api-lists/public-api-lists",
+"name": "Public API Lists",
+"detail": "Free APIs"
+},
+"n0shake": {
+"api": "https://github.com/n0shake/Public-APIs",
+"name": "N0shake Public APIs",
+"detail": "Public APIs list"
+},
+"cyatteau": {
+"api": "https://dev.to/c_yatteau/api",
+"name": "C Yatteau Trivia APIs",
+"detail": "Trivia APIs without key"
+},
+"wescpy": {
+"api": "https://dev.to/wescpy/api",
+"name": "Wescpy Google API",
+"detail": "Easiest Google API"
+},
+"kihuni": {
+"api": "https://dev.to/kihuni/api",
+"name": "Kihuni Postman Testing",
+"detail": "API testing with Postman"
+},
+"keploy": {
+"api": "https://github.com/keploy/public-apis-collection",
+"name": "Keploy Public APIs",
+"detail": "Curated free APIs"
+},
+"alexandresanlim": {
+"api": "https://github.com/alexandresanlim/public-apis-no-auth-only",
+"name": "Public APIs No Auth",
+"detail": "No auth APIs"
+},
+"shivams1007": {
+"api": "https://dev.to/shivams1007/api",
+"name": "Shivams Public APIs",
+"detail": "Free public APIs"
+},
+"ruppysuppy": {
+"api": "https://dev.to/ruppysuppy/api",
+"name": "RuppySuppy Free APIs",
+"detail": "Free APIs for developers"
+},
+"bhumit070": {
+"api": "https://dev.to/bhumit070/api",
+"name": "Bhumit Free APIs",
+"detail": "40 free APIs"
+},
+"ypdev19": {
+"api": "https://dev.to/ypdev19/api",
+"name": "YPDev Free APIs",
+"detail": "Interesting data APIs"
+},
+"therealmrmumba": {
+"api": "https://dev.to/therealmrmumba/api",
+"name": "MrMumba Free APIs 2025",
+"detail": "10 free public APIs"
+},
+"itshayder": {
+"api": "https://dev.to/itshayder/api",
+"name": "ItsHayder Free AI APIs",
+"detail": "Free AI API keys"
+},
+"sajankc": {
+"api": "https://dev.to/sajankc/api",
+"name": "SajanKC Free APIs",
+"detail": "Top free APIs without key"
+},
+"developerchandan": {
+"api": "https://developerchandan.medium.com/api",
+"name": "DeveloperChandan Free APIs",
+"detail": "10 free APIs for beginners"
+},
+"publicapisio": {
+"api": "https://publicapis.io/",
+"name": "Public APIs IO",
+"detail": "Public APIs directory"
+},
+"freeapicom": {
+"api": "https://www.free-api.com/",
+"name": "Free-API.com",
+"detail": "Free APIs including movie and anime"
+}
+}
 }
